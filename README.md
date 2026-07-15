@@ -1,5 +1,4 @@
-<img src="<img width="3780" height="1890" alt="Design sem nome" src="https://github.com/user-attachments/assets/30c70617-bc1a-4b24-b519-e622720d1101" />" alt="Banner" width="100%">
-
+![Banner](https://github.com/user-attachments/assets/30c70617-bc1a-4b24-b519-e622720d1101)
 # Olá! Seja bem-vinda ao meu GitHub 👋
 
 ---
