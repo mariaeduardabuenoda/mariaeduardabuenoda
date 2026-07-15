@@ -13,7 +13,6 @@ Adoro transformar linhas de código em soluções reais, fáceis de usar e que f
 
 ### 🌐 Conecte-se Comigo
 
-Aqui você pode adicionar links para as suas redes sociais ou portfólio. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_LINKIN_AQUI](https://www.linkedin.com/feed/))
 
